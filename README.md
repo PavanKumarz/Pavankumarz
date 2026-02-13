@@ -1,16 +1,41 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f766e&height=170&section=header&text=Learning%20by%20Building&fontColor=ffffff&fontSize=34&fontAlignY=45" />
+</p>
 
-<!--
-**PavanKumarz/Pavankumarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I’m Pavankumar  
+*Learning by building. Building by breaking.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Currently Learning
+- Flutter (UI, state management, clean architecture)  
+- App architecture & system design  
+- Node.js  
+- Backend basics (APIs, data flow)
+
+---
+
+###  My Learning Path
+- Build small → break things → fix them  
+- Read code → write messy code → write better code  
+- Ship early, improve often  
+
+---
+
+###  Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,linux,python,nodejs,firebase,git,github,sqlite,mongodb&theme=dark" />
+</p>
+
+> Flutter & Dart (main focus)  
+> Linux, Python, Node.js (basics)  
+> Firebase (auth, basic backend)
+
+---
+
+###  Why this profile exists
+This GitHub is my **learning log**.  
+You’ll find experiments, half-built ideas, refactors, and progress over time.
+
+> If you’re learning too — you’re not late. You’re building your foundation.
