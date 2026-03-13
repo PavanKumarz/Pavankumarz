@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f766e&height=170&section=header&text=Learning%20by%20Building&fontColor=ffffff&fontSize=34&fontAlignY=45" />
-</p>
-
 # Hey, I’m Pavankumar  
 *Learning by building. Building by breaking.*
 
