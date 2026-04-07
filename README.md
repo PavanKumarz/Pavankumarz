@@ -1,8 +1,5 @@
 # Hey, I’m Pavankumar  
-*Learning by building. Building by breaking.*
-
 ---
-
 ###  Currently Learning
 - Flutter (UI, state management, clean architecture)  
 - App architecture & system design  
